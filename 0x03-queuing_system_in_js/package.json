@@ -35,12 +35,3 @@
       "sinon": "^7.5.0"
     }
   }
-
-.babelrc
-Click to show/hide file contents
- 
-{
-  "presets": [
-    "@babel/preset-env"
-  ]
-}
